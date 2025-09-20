@@ -1,0 +1,2 @@
+# redes_neuronales
+Praticas_de_Inteligencia_Artificial
